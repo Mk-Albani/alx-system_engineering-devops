@@ -1,1 +1,1 @@
-new
+a script that prints
